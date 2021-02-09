@@ -29,7 +29,7 @@
 
 <h2 align="left" id="macropower-tech">Tecnologia favoritas</h2>
 
-> Ferramentas, idiomas e outras coisas com que gosto de trabalhar.
+> Ferramentas, linguagens e outras coisas com que gosto de trabalhar.
 
 <table>
   <tr>
