@@ -1,5 +1,5 @@
 <h1 align="left" id="macropower-title"> Olá! Sou Thiago Edson</h1>
-<h3 align="left">Eu sou um Versatilista, fazendo coisas em PHP / React </h3>
+<h3 align="left">Eu sou um Versatilista, fazendo coisas em PHP / React /Java</h3>
 
 <p align="left">
   <a href="https://github.com/thiagoedson/thiagoedson">
