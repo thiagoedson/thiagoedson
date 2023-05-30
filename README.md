@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢   Atualmente estou trabalhando em [84.51°]<br>🌱  Atualmente estou aprendendo React<br>💬  Eu gosto de falar sobre Tecnologia e Viagens<br>📫  Pergunte-me qualquer coisa no meu Twitter<br>💻   Conecte-se comigo no LinkedIn
+🏢   Atualmente estou trabalhando em [40.51°]<br>🌱  Atualmente estou aprendendo React<br>💬  Eu gosto de falar sobre Tecnologia e Viagens<br>📫  Pergunte-me qualquer coisa no meu Twitter<br>💻   Conecte-se comigo no LinkedIn
 
 
 ## 🌐 Socials:
