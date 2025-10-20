@@ -10,12 +10,20 @@
 
 ## 🚀 Sobre Mim
 
+<div align="left">
+  
+<img align="right" src="https://api.daily.dev/devcards/v2/dkdLekPmRX1oXZC82ll5u.png?type=default&r=78t" width="300" alt="Thiago Edson's Dev Card"/>
+
 Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em criar soluções eficientes e escaláveis. Atualmente trabalhando em **[40.51°]** e constantemente aprendendo novas tecnologias.
 
 - 💼 Trabalhando atualmente em projetos com **React** e **.NET**
 - 🌱 Estudando e aprimorando habilidades em **React** e **TypeScript**
 - 💬 Adoro conversar sobre **Tecnologia** e **Viagens**
 - 🎯 Sempre em busca de novos desafios e aprendizados
+
+</div>
+
+<br clear="right"/>
 
 ---
 
