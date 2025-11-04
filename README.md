@@ -14,12 +14,13 @@
   
 <img align="right" src="https://api.daily.dev/devcards/v2/dkdLekPmRX1oXZC82ll5u.png?type=default&r=78t" width="300" alt="Thiago Edson's Dev Card"/>
 
-Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em criar soluções eficientes e escaláveis. Atualmente trabalhando em **[40.51°]** e constantemente aprendendo novas tecnologias.
+Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em criar soluções eficientes e escaláveis. Constantemente aprendendo novas tecnologias e buscando evoluir profissionalmente.
 
-- 💼 Trabalhando atualmente em projetos com **React** e **.NET**
-- 🌱 Estudando e aprimorando habilidades em **React** e **TypeScript**
-- 💬 Adoro conversar sobre **Tecnologia** e **Viagens**
-- 🎯 Sempre em busca de novos desafios e aprendizados
+- 💼 Desenvolvedor Full Stack com expertise em **React**, **.NET** e **PostgreSQL**
+- 🔭 Trabalhando em projetos escaláveis com arquiteturas modernas
+- 🌱 Aprofundando conhecimentos em **TypeScript**, **Docker** e **Clean Architecture**
+- 💬 Vamos conversar sobre **Desenvolvimento Web**, **Tecnologia** e **Viagens**
+- 🎯 Sempre em busca de novos desafios e aprendizados contínuos
 
 </div>
 
@@ -91,15 +92,37 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em cri
 
 ---
 
-## 📈 Atividade Recente
+## 🌟 Projetos em Destaque
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<div align="center">
+
+<!-- Substitua 'nome-do-projeto' pelos seus repositórios reais -->
+<!-- Exemplo: -->
+<!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoedson&repo=seu-projeto&theme=tokyonight&hide_border=true)](https://github.com/thiagoedson/seu-projeto) -->
+
+### 💡 Confira meus repositórios para ver projetos em React, .NET, TypeScript e muito mais!
+
+</div>
+
+---
+
+## 📫 Vamos Conectar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thiago_Edson-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thiagoedson/)
+[![Instagram](https://img.shields.io/badge/Instagram-@thiagocassone-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thiagocassone)
+[![Facebook](https://img.shields.io/badge/Facebook-Thiago_Cassone-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/thiagocassone)
+
+<!-- Adicione seu email profissional se desejar -->
+<!-- [![Email](https://img.shields.io/badge/Email-seu.email@exemplo.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu.email@exemplo.com) -->
+
+</div>
 
 ---
 
 <div align="center">
-  
+
 ### 💡 *"A tecnologia move o mundo, mas são as pessoas que fazem a diferença."*
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=thiagoedson&label=Visitantes&labelColor=%23697689&countColor=%232ccce4)
