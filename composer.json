@@ -1,0 +1,22 @@
+{
+    "name": "thiagoedson/thiagoedson",
+    "description": "Perfil pessoal do GitHub de Thiago Edson - Desenvolvedor Full Stack",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Thiago Edson",
+            "email": "thiago@example.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "ThiagoEdson\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
