@@ -11,15 +11,19 @@
 ## 🚀 Sobre Mim
 
 <div align="left">
-  
+
 <img align="right" src="https://api.daily.dev/devcards/v2/dkdLekPmRX1oXZC82ll5u.png?type=default&r=78t" width="300" alt="Thiago Edson's Dev Card"/>
 
-Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em criar soluções eficientes e escaláveis. Constantemente aprendendo novas tecnologias e buscando evoluir profissionalmente.
+Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em criar soluções eficientes e escaláveis. Especialista em **Inteligência Artificial**, **Machine Learning** e **desenvolvimento mobile**, constantemente explorando novas tecnologias e buscando evoluir profissionalmente.
 
 - 💼 Desenvolvedor Full Stack com expertise em **React**, **.NET** e **PostgreSQL**
-- 🔭 Trabalhando em projetos escaláveis com arquiteturas modernas
+- 🤖 Especialista em **APIs de LLM** (OpenAI, Anthropic, Ollama) e **criação de chatbots inteligentes**
+- 🧠 Experiência em **Machine Learning**, análise de dados e **projeções estatísticas**
+- 📱 Desenvolvimento de aplicativos **iOS** e **Android**, **PWA** e **SPA**
+- 🔧 Trabalho com **WordPress**, criação de **modelos de LLM customizados** e integrações
+- 🔭 Trabalhando em projetos escaláveis com arquiteturas modernas e IA
 - 🌱 Aprofundando conhecimentos em **TypeScript**, **Docker** e **Clean Architecture**
-- 💬 Vamos conversar sobre **Desenvolvimento Web**, **Tecnologia** e **Viagens**
+- 💬 Vamos conversar sobre **IA**, **Desenvolvimento Web**, **Mobile** e **Tecnologia**
 - 🎯 Sempre em busca de novos desafios e aprendizados contínuos
 
 </div>
@@ -67,6 +71,38 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em cri
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+### 🤖 IA & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Experiências:**
+- 🎯 Integração e desenvolvimento com APIs de LLM (OpenAI, Anthropic Claude, Ollama)
+- 💬 Criação de chatbots inteligentes e assistentes virtuais personalizados
+- 🔬 Desenvolvimento de modelos de LLM customizados para casos específicos
+- 📊 Análise de dados e Machine Learning para projeções estatísticas
+- 🧪 Fine-tuning e otimização de modelos para diferentes aplicações
+
+### 📱 Mobile & Web Moderna
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+**Experiências:**
+- 📱 Desenvolvimento de aplicativos nativos para **iOS** e **Android**
+- ⚡ Criação de **Progressive Web Apps (PWA)** com experiência mobile-first
+- 🎨 **Single Page Applications (SPA)** com React e frameworks modernos
+- 🔌 Desenvolvimento e customização de temas e plugins **WordPress**
+- 🚀 Otimização de performance e experiência do usuário em plataformas mobile
 
 ---
 
