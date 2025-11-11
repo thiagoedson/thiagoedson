@@ -20,10 +20,11 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em cri
 - 🤖 Especialista em **APIs de LLM** (OpenAI, Anthropic, Ollama) e **criação de chatbots inteligentes**
 - 🧠 Experiência em **Machine Learning**, análise de dados e **projeções estatísticas**
 - 📱 Desenvolvimento de aplicativos **iOS** e **Android**, **PWA** e **SPA**
+- ☁️ Especialista em **DevOps** com **Docker**, **Kubernetes**, **Redis** e **Grafana**
 - 🔧 Trabalho com **WordPress**, criação de **modelos de LLM customizados** e integrações
 - 🔭 Trabalhando em projetos escaláveis com arquiteturas modernas e IA
-- 🌱 Aprofundando conhecimentos em **TypeScript**, **Docker** e **Clean Architecture**
-- 💬 Vamos conversar sobre **IA**, **Desenvolvimento Web**, **Mobile** e **Tecnologia**
+- 🌱 Aprofundando conhecimentos em **TypeScript**, **Kubernetes** e **Clean Architecture**
+- 💬 Vamos conversar sobre **IA**, **DevOps**, **Desenvolvimento Web**, **Mobile** e **Tecnologia**
 - 🎯 Sempre em busca de novos desafios e aprendizados contínuos
 
 </div>
@@ -53,18 +54,30 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em cri
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### Banco de Dados
+### Banco de Dados & Cache
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### DevOps & Ferramentas
+### ☁️ DevOps, Cloud & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+**Experiências:**
+- 🐳 Containerização de aplicações com **Docker** e orquestração com **Kubernetes**
+- 🔄 Automação de ambientes com **Docker Compose** para desenvolvimento e produção
+- 📊 Monitoramento e observabilidade com **Grafana** e métricas em tempo real
+- ⚡ Implementação de cache e filas com **Redis** para alta performance
+- 🚀 Deploy e gerenciamento de aplicações em ambientes cloud
+- 🔧 CI/CD pipelines e automação de infraestrutura
 
 ### Design & Criação
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
