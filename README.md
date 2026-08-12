@@ -14,18 +14,18 @@
 
 <img align="right" src="https://api.daily.dev/devcards/v2/dkdLekPmRX1oXZC82ll5u.png?type=default&r=78t" width="300" alt="Thiago Edson's Dev Card"/>
 
-Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em criar soluções eficientes e escaláveis. Especialista em **Inteligência Artificial**, **Machine Learning** e **desenvolvimento mobile**, constantemente explorando novas tecnologias e buscando evoluir profissionalmente.
+Desenvolvedor Full Stack com foco em construir soluções eficientes, escaláveis e orientadas a resultado. Atuo do front ao back, com experiência prática em Inteligência Artificial aplicada, Machine Learning e desenvolvimento mobile — sempre buscando entender o problema de negócio antes de escolher a tecnologia.
 
-- 💼 Desenvolvedor Full Stack com expertise em **React**, **.NET** e **PostgreSQL**
-- 🤖 Especialista em **APIs de LLM** (OpenAI, Anthropic, Ollama) e **criação de chatbots inteligentes**
-- 🧠 Experiência em **Machine Learning**, análise de dados e **projeções estatísticas**
-- 📱 Desenvolvimento de aplicativos **iOS** e **Android**, **PWA** e **SPA**
-- ☁️ Especialista em **DevOps** com **Docker**, **Kubernetes**, **Redis** e **Grafana**
-- 🔧 Trabalho com **WordPress**, criação de **modelos de LLM customizados** e integrações
-- 🔭 Trabalhando em projetos escaláveis com arquiteturas modernas e IA
-- 🌱 Aprofundando conhecimentos em **TypeScript**, **Kubernetes** e **Clean Architecture**
-- 💬 Vamos conversar sobre **IA**, **DevOps**, **Desenvolvimento Web**, **Mobile** e **Tecnologia**
-- 🎯 Sempre em busca de novos desafios e aprendizados contínuos
+- 💼 Full Stack com expertise em **React**, **.NET** e **PostgreSQL**
+- 🤖 Integração de **APIs de LLM** (OpenAI, Anthropic, Ollama), criação de **skills**/agentes de IA e chatbots inteligentes
+- 🧠 Machine Learning aplicado a análise de dados e projeções estatísticas
+- ⚙️ **Automação de processos e workflows**, reduzindo trabalho manual e integrando sistemas
+- 📱 Aplicativos **iOS** e **Android**, além de **PWA** e **SPA**
+- ☁️ **DevOps** e infraestrutura com **Docker**, **Kubernetes**, **Redis** e **Grafana**
+- 🔧 **WordPress**, temas/plugins customizados e integrações de sistemas
+- 🔭 Atualmente envolvido em projetos com arquiteturas modernas, IA aplicada e automações
+- 🌱 Aprofundando **TypeScript**, **Kubernetes** e **Clean Architecture**
+- 💬 Aberto a conversar sobre **IA**, **Automação**, **DevOps**, **Desenvolvimento Web** e **Mobile**
 
 </div>
 
@@ -97,7 +97,9 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em cri
 
 **Experiências:**
 - 🎯 Integração e desenvolvimento com APIs de LLM (OpenAI, Anthropic Claude, Ollama)
+- 🧩 Criação de **skills** e agentes de IA especializados para tarefas específicas
 - 💬 Criação de chatbots inteligentes e assistentes virtuais personalizados
+- ⚙️ Automação de processos e workflows apoiada em IA
 - 🔬 Desenvolvimento de modelos de LLM customizados para casos específicos
 - 📊 Análise de dados e Machine Learning para projeções estatísticas
 - 🧪 Fine-tuning e otimização de modelos para diferentes aplicações
@@ -147,11 +149,22 @@ Desenvolvedor Full Stack apaixonado por tecnologia e inovação, com foco em cri
 
 <div align="center">
 
-<!-- Substitua 'nome-do-projeto' pelos seus repositórios reais -->
-<!-- Exemplo: -->
-<!-- [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoedson&repo=seu-projeto&theme=tokyonight&hide_border=true)](https://github.com/thiagoedson/seu-projeto) -->
+<!--
+  Para fixar um projeto aqui, adicione um card apontando para o repositório real, por exemplo:
+  [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=thiagoedson&repo=NOME-DO-REPO&theme=tokyonight&hide_border=true)](https://github.com/thiagoedson/NOME-DO-REPO)
+-->
 
-### 💡 Confira meus repositórios para ver projetos em React, .NET, TypeScript e muito mais!
+### 💡 Confira meus repositórios fixados no perfil para ver projetos em React, .NET, TypeScript e IA aplicada.
+
+</div>
+
+---
+
+## 🐍 Atividade Recente
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/thiagoedson/thiagoedson/output/github-contribution-grid-snake.svg)
 
 </div>
 
