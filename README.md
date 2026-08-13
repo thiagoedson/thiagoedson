@@ -121,25 +121,26 @@ Desenvolvedor Full Stack com foco em construir soluções eficientes, escalávei
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas & Conquistas do GitHub
+
+<!--
+  Gerado automaticamente pelo workflow .github/workflows/metrics.yml (lowlighter/metrics),
+  que roda no próprio GitHub Actions e publica o SVG na branch "metrics".
+  Isso evita depender das instâncias públicas de github-readme-stats/github-profile-trophy,
+  que ficam frequentemente fora do ar por excesso de uso (503 / 402).
+
+  Passo obrigatório único: crie um Personal Access Token (classic) com o escopo "read:user"
+  (e "repo" se quiser incluir estatísticas de repositórios privados) em
+  https://github.com/settings/tokens, e salve-o como secret METRICS_TOKEN em
+  Settings > Secrets and variables > Actions deste repositório.
+  Depois disso, o workflow roda sozinho (diariamente) e mantém a imagem abaixo atualizada.
+-->
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thiagoedson&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Metrics](https://raw.githubusercontent.com/thiagoedson/thiagoedson/metrics/github-metrics.svg)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagoedson&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoedson&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 Conquistas GitHub
-
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thiagoedson&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
